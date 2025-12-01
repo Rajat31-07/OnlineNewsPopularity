@@ -1,0 +1,11 @@
+Python Library Versions:
+------------------
+Python: 3.12.12
+numpy: 2.0.2
+pandas: 2.2.2
+scipy: Version information not directly available or module not found.
+matplotlib: Version information not directly available or module not found.
+seaborn: 0.13.2
+lightgbm: Version information not directly available or module not found.
+xgboost: Version information not directly available or module not found.
+sklearn: 1.6.1
