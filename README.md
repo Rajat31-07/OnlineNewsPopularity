@@ -1,6 +1,6 @@
 # Project Title
 
-**Online News Popularity Prediction**
+**Online News Popularity**
 
 ## Team Members
 
